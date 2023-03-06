@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "app_xla_auth",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}

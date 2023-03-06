@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bearer-token-parser": "^1.0.3",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mariadb": "^3.0.0",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.1.2",
+    "ws": "^8.5.0"
+  }
+}
